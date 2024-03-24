@@ -1,0 +1,12 @@
+Our team benefitted greatly from:
+
+Nicholas Renotte's series on ASL detection:
+https://github.com/nicknochnack
+https://www.youtube.com/watch?v=pDXdlXlaCco
+https://www.youtube.com/watch?v=ZTSRZt04JkY
+
+The data source for hand gestures from Kaggle user Pathikreet:
+https://www.kaggle.com/datasets/pathikreet/indian​
+
+The data source for faces from Professor Lior Wolf:
+https://www.cs.tau.ac.il/~wolf/ytfaces
