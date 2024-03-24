@@ -4,7 +4,7 @@ import random
 import shutil
 
 test_fraction = 0.1
-source = 'Data/'
+source = 'param_dataset/'
 
 filenames = os.listdir(source)
 without_extensions = set([Path(name).stem for name in filenames])
